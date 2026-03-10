@@ -2,7 +2,7 @@
 
 > Author: Prashanth Goud — Senior SAP SD / S/4HANA Consultant  
 > Scope: SD Workstream Cutover — applicable to S/4HANA migration and major ECC go-lives  
-> Version: 3.1 (refined across 8 programme go-lives)
+> Version: 3.1 (refined across 3 full-lifecycle programme go-lives)
 
 ---
 
