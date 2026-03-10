@@ -74,9 +74,9 @@ Intercompany Billing     CRM / SuccessFactors       SAP Fiori / UI5
 
 | Metric | Achievement |
 |--------|-------------|
-| 🏁 **Go-lives Led** | 8+ full-lifecycle S/4HANA & ECC programmes |
+| 🏁 **Go-lives Led** | 3 full-lifecycle S/4HANA & ECC programmes |
 | ⏱️ **Cutover Windows** | All delivered within agreed technical downtime |
-| 🐛 **P1 Defects at Go-live** | Zero across last 4 programmes |
+| 🐛 **P1 Defects at Go-live** | Zero across all 3 programmes |
 | 📉 **Pricing Rationalisation** | 40%+ condition type reduction on legacy landscapes |
 | 🧪 **UAT Cycle Completion** | Consistent on-time business sign-off |
 | 🌐 **Industries** | Manufacturing · FMCG · Chemicals · Professional Services |
