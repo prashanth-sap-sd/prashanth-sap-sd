@@ -1,520 +1,317 @@
+<!-- ANIMATED HEADER BANNER -->
 <div align="center">
-
-![Header](https://raw.githubusercontent.com/prashanth-sap-sd/sap-sd-portfolio/main/assets/career-timeline.svg)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prashanth%20Goud&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20SAP%20SD%20%2F%20S%2F4HANA%20Consultant&descAlignY=58&descSize=22" width="100%"/>
 </div>
 
+<!-- ANIMATED TYPING TEXT -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=C8893A&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Senior+SAP+SD+%2F+S%2F4HANA+Consultant+%F0%9F%9A%80;10%2B+Years+Enterprise+OTC+Delivery+%F0%9F%8F%86;Advanced+Pricing+Architecture+Expert+%F0%9F%92%B0;3+Full+Lifecycle+Implementations+%E2%9C%85;Zero+P1+Defects+at+Go-Live+%F0%9F%8E%AF;Available+for+Engagements+%F0%9F%9F%A2" alt="Typing SVG"/>
+</div>
+
+<br/>
+
+<!-- BADGE ROW -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-1a3a6b?style=for-the-badge)](https://prashanth-sap-sd.github.io/prashanth-sap-sd/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-1a3a6b?style=for-the-badge&logoColor=white)](https://prashanth-sap-sd.github.io/prashanth-sap-sd/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pr-goud)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-c8893a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.prashanth0728@gmail.com)
-[![Open](https://img.shields.io/badge/Status-Open_to_Engagements_✅-22c55e?style=for-the-badge)](mailto:t.prashanth0728@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.prashanth0728@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Open_to_Work_🟢-22c55e?style=for-the-badge)](mailto:t.prashanth0728@gmail.com)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=prashanth-sap-sd.prashanth-sap-sd&left_color=1a3a6b&right_color=c8893a&left_text=👁️+Profile+Views)](https://github.com/prashanth-sap-sd)
 
 </div>
-
----
-
-<div align="center">
-
-## `> WHO AM I`
-
-</div>
-
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   $ whoami                                                                   │
-│   > Prashanth Goud — Senior SAP SD / S/4HANA Consultant                     │
-│                                                                              │
-│   $ cat experience.txt                                                       │
-│   > 10+ years · 3 full lifecycle implementations · Zero P1 defects          │
-│                                                                              │
-│   $ ls expertise/                                                            │
-│   > OTC/  AdvancedPricing/  S4HANA/  Billing/  LogisticsExec/  Integration/ │
-│                                                                              │
-│   $ cat status.log                                                           │
-│   > [OPEN] Available for S/4HANA migrations · OTC delivery · Pricing work   │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
 
 <br/>
 
-> *"Configuration is easy to build and hard to maintain.*
-> *I design SAP SD solutions built for longevity — governed, documented, and production-ready."*
+---
+
+## 🚀 About Me
+
+<img align="right" alt="SAP Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```yaml
+Name     : Prashanth Goud
+Title    : Senior SAP SD / S/4HANA Consultant
+Location : Pennsylvania, USA 🇺🇸
+Experience: 10+ Years
+
+Specialisation:
+  - Order-to-Cash (OTC) End-to-End
+  - Advanced Pricing & Condition Technique
+  - S/4HANA Migration & Stabilisation
+  - Billing, LE & FI Integration
+  - EDI/IDoc & ALE Integration
+
+Currently  : SAP SD Lead @ Experian
+             ECC → S/4HANA Migration
+Previous   : Molina Healthcare (OTC Lead)
+             Global Atlantic Financial Group
+             MTouchLabs · Jarus Technologies
+
+Delivery   : 3 Full Lifecycle Implementations
+             Zero P1 Defects at Go-Live
+             Onsite + Offshore Team Leadership
+
+Open For   : S/4HANA Migrations
+             OTC Programme Delivery
+             Pricing Architecture
+             Production Support
+```
+
+<br clear="right"/>
 
 ---
 
+## 🏆 GitHub Profile Trophies
+
 <div align="center">
 
-## `> DELIVERY TRACK RECORD`
-
-![Stats](https://raw.githubusercontent.com/prashanth-sap-sd/sap-sd-portfolio/main/assets/delivery-stats.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prashanth-sap-sd&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<div align="center">
-
-## `> 3 REAL IMPLEMENTATIONS · REAL CLIENTS · REAL OUTCOMES`
-
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🏢 Experian
-**SAP ECC → S/4HANA Migration**
-`Aug 2023 — Present`
-
-![](https://img.shields.io/badge/Type-ECC_→_S/4HANA-1a3a6b?style=flat-square)
-![](https://img.shields.io/badge/Industry-Financial_Services-c8893a?style=flat-square)
-
-**What I delivered:**
-- Full OTC process redesign for S/4HANA
-- BRF+ output migration (NACE → new)
-- Business Partner conversion (42K+ records)
-- aATP design & Fiori rollout
-- EDI/IDoc integration for key partners
-- Post go-live hypercare stabilisation
-
-**Tech:** `S/4HANA` `aATP` `BRF+` `Fiori` `ALE/EDI`
-
-[📖 Full Case Study →](./case-studies/case-study-1-experian-s4hana.md)
-
-</td>
-<td width="33%" valign="top">
-
-### 🏢 Global Atlantic
-**S/4HANA Public Cloud OTC**
-`May 2021 — Apr 2022`
-
-![](https://img.shields.io/badge/Type-Public_Cloud-1a3a6b?style=flat-square)
-![](https://img.shields.io/badge/Industry-Insurance_%26_Finance-c8893a?style=flat-square)
-
-**What I delivered:**
-- AS-IS discovery & fit-to-standard workshops
-- SSCUI cloud configuration (no Z-code)
-- SD–PS project & milestone billing
-- Complex financial services pricing
-- Revenue recognition alignment
-- SME training & go-live support
-
-**Tech:** `S/4HANA Cloud` `SSCUI` `SD-PS` `Best Practices`
-
-[📖 Full Case Study →](./case-studies/case-study-2-global-atlantic.md)
-
-</td>
-<td width="33%" valign="top">
-
-### 🏢 Molina Healthcare
-**S/4HANA Full Lifecycle — OTC Lead**
-`Jan 2020 — Apr 2021`
-
-![](https://img.shields.io/badge/Type-Full_Lifecycle-1a3a6b?style=flat-square)
-![](https://img.shields.io/badge/Industry-Healthcare-c8893a?style=flat-square)
-
-**What I delivered:**
-- Led onsite + offshore OTC team
-- Agile delivery across 16 months
-- Healthcare contract pricing (zero tolerance)
-- ALE/EDI X12 & EDIFACT integration
-- Full RICEFW functional spec ownership
-- 6-week hypercare → AMS handover
-
-**Tech:** `S/4HANA` `Agile` `ALE` `EDI X12` `EDIFACT`
-
-[📖 Full Case Study →](./case-studies/case-study-3-molina-healthcare.md)
-
-</td>
-</tr>
-</table>
-
----
+## 🧠 SAP Skills & Technologies
 
 <div align="center">
 
-## `> SAP SD COMPETENCY MAP`
+### Core SAP Platform
+[![SAP](https://img.shields.io/badge/SAP-S/4HANA-0070f3?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
+[![SAP](https://img.shields.io/badge/SAP-ECC_6.0-0070f3?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
+[![SAP](https://img.shields.io/badge/SAP-Fiori_%2F_UI5-0070f3?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
+[![SAP](https://img.shields.io/badge/SAP-S/4HANA_Cloud-0070f3?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
+[![SAP](https://img.shields.io/badge/SAP-BTP-0070f3?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
 
-![Competency](https://raw.githubusercontent.com/prashanth-sap-sd/sap-sd-portfolio/main/assets/skills-competency-map.svg)
+### OTC & SD Modules
+![OTC](https://img.shields.io/badge/Order--to--Cash-OTC-c8893a?style=for-the-badge)
+![Pricing](https://img.shields.io/badge/Advanced-Pricing-c8893a?style=for-the-badge)
+![Billing](https://img.shields.io/badge/Billing_%26-Revenue-c8893a?style=for-the-badge)
+![LE](https://img.shields.io/badge/Logistics-Execution-c8893a?style=for-the-badge)
+![Credit](https://img.shields.io/badge/Credit-Management-c8893a?style=for-the-badge)
+![EDI](https://img.shields.io/badge/EDI_%2F-IDoc_%2F_ALE-1a3a6b?style=for-the-badge)
+
+### Integration
+![FI](https://img.shields.io/badge/SD--FI-Integration-1a3a6b?style=for-the-badge)
+![MM](https://img.shields.io/badge/SD--MM-Integration-1a3a6b?style=for-the-badge)
+![PP](https://img.shields.io/badge/SD--PP-Integration-1a3a6b?style=for-the-badge)
+![PS](https://img.shields.io/badge/SD--PS-Integration-1a3a6b?style=for-the-badge)
+![WM](https://img.shields.io/badge/SD--WM-Integration-1a3a6b?style=for-the-badge)
+
+### Methodology & Tools
+![Activate](https://img.shields.io/badge/SAP-Activate-22c55e?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-Scrum-22c55e?style=for-the-badge)
+![ASAP](https://img.shields.io/badge/ASAP-Methodology-22c55e?style=for-the-badge)
+![HPQC](https://img.shields.io/badge/HP-Quality_Center-22c55e?style=for-the-badge)
+![ServiceNow](https://img.shields.io/badge/Service-Now-22c55e?style=for-the-badge)
+![SolMan](https://img.shields.io/badge/SAP-Solution_Manager-22c55e?style=for-the-badge)
 
 </div>
 
 ---
 
+## 🏗️ Architecture & Workflow
+
+### 🔄 End-to-End Order-to-Cash Flow
+
+```mermaid
+flowchart LR
+    A(["👤 Customer"]) --> B["📋 Inquiry\nVA11"]
+    B --> C["📄 Quotation\nVA21"]
+    C --> D["🛒 Sales Order\nVA01"]
+
+    D --> E{{"💳 Credit\nCheck"}}
+    D --> F{{"📦 ATP\nCheck"}}
+
+    E -->|Approved| G["🚚 Delivery\nVL01N"]
+    F -->|Confirmed| G
+
+    G --> H["📦 Pick & Pack\nLT0A"]
+    H --> I["✅ Post Goods\nIssue VL02N"]
+    I --> J["🧾 Billing\nVF01/VF04"]
+    J --> K["💰 FI Posting\nFB03"]
+    K --> L(["🏦 Payment\nF-28"])
+
+    style A fill:#1a3a6b,color:#fff
+    style L fill:#22c55e,color:#fff
+    style D fill:#c8893a,color:#fff
+    style J fill:#c8893a,color:#fff
+```
+
+### 💰 Pricing Determination Architecture
+
+```mermaid
+flowchart TD
+    A["Sales Order Created"] --> B["OVKK Lookup\nSOrg + DCh + DocPricProc\n+ CustPricProc"]
+    B --> C["Pricing Procedure\nAssigned"]
+    C --> D["Step 10: PR00 Base Price"]
+    C --> E["Step 40: K007 Customer Disc"]
+    C --> F["Step 80: MWST Tax"]
+
+    D --> D1["Access Sequence\nCustomer+Mat → PriceList+Mat\n→ SOrg+Mat"]
+    D1 --> D2{{"Record\nFound?"}}
+    D2 -->|Yes| D3["✅ Apply Price"]
+    D2 -->|No| D4["⚠️ Inactive"]
+
+    E --> E1["Exclusion Group 01\nBest Discount Wins"]
+    E1 --> E2["✅ Apply Discount"]
+
+    D3 --> G["Net Price Calculated"]
+    E2 --> G
+    F --> G
+    G --> H["✅ Document Pricing Complete"]
+
+    style A fill:#1a3a6b,color:#fff
+    style H fill:#22c55e,color:#fff
+    style D4 fill:#ef4444,color:#fff
+```
+
+### 🚀 S/4HANA Migration Workstream
+
+```mermaid
+flowchart LR
+    subgraph PREPARE ["📋 PREPARE"]
+        A1["Scope Lock"] --> A2["Simplification\nItem Check"]
+        A2 --> A3["BP Mapping"]
+    end
+
+    subgraph EXPLORE ["🔍 EXPLORE"]
+        B1["Fit-to-Standard\nWorkshops x11"] --> B2["Gap Register"]
+        B2 --> B3["Design Sign-off"]
+    end
+
+    subgraph REALIZE ["⚙️ REALIZE"]
+        C1["Configuration\nBuild"] --> C2["WRICEF\nDevelopment"]
+        C2 --> C3["Unit Testing"]
+    end
+
+    subgraph TEST ["🧪 TEST"]
+        D1["SIT\n84 Scripts"] --> D2["UAT\n156 Cases"]
+        D2 --> D3["Performance\nTest"]
+    end
+
+    subgraph DEPLOY ["🚀 DEPLOY"]
+        E1["Dress\nRehearsal x2"] --> E2["Cutover\nExecution"]
+        E2 --> E3["Go/No-Go\nDecision"]
+    end
+
+    subgraph RUN ["✅ RUN"]
+        F1["Hypercare\n4 Weeks"] --> F2["BAU\nHandover"]
+    end
+
+    PREPARE --> EXPLORE --> REALIZE --> TEST --> DEPLOY --> RUN
+
+    style PREPARE fill:#1a3a6b,color:#fff
+    style EXPLORE fill:#1a3a6b,color:#fff
+    style REALIZE fill:#1a3a6b,color:#fff
+    style TEST fill:#c8893a,color:#fff
+    style DEPLOY fill:#c8893a,color:#fff
+    style RUN fill:#22c55e,color:#fff
+```
+
+---
+
+## 📊 GitHub Analytics Dashboard
+
 <div align="center">
 
-## `> ORDER-TO-CASH PROCESS MASTERY`
-
-![OTC Flow](https://raw.githubusercontent.com/prashanth-sap-sd/sap-sd-portfolio/main/assets/otc-process-flow.svg)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prashanth-sap-sd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c8893a&icon_color=c8893a&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth-sap-sd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8893a&text_color=ffffff"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## `> CORE CAPABILITIES`
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔄 Order-to-Cash (OTC)**
-```
-✦ Sales document types & item categories
-✦ Copy control & incompletion procedures
-✦ ATP / aATP availability check
-✦ Credit & risk management (FD32/OVA8)
-✦ Partner & text determination
-✦ Contracts: qty, value, scheduling agmt
-```
-
-**💰 Advanced Pricing**
-```
-✦ Pricing procedure architecture (V/08)
-✦ Condition technique end-to-end
-✦ Access sequences & condition tables
-✦ Exclusion groups & stacking logic
-✦ VOFM routines & formulas
-✦ Governance & condition record lifecycle
-```
-
-**🧾 Billing & Revenue**
-```
-✦ Billing types: F2, G2, L2, RE, IV, S1
-✦ Billing plans: milestone & periodic
-✦ Invoice lists & intercompany billing
-✦ Revenue account determination (VKOA)
-✦ Credit/debit memo processing
-✦ SD–FI integration & FI posting validation
-```
-
-</td>
-<td width="50%" valign="top">
-
-**🚚 Delivery & Logistics Execution**
-```
-✦ Shipping point & route determination
-✦ Delivery scheduling (forward/backward)
-✦ Picking, packing & PGI (VL01N/VL02N)
-✦ Transportation & shipment management
-✦ LE-WM integration
-✦ Batch splits & collective deliveries
-```
-
-**⚡ S/4HANA**
-```
-✦ Brownfield conversion & greenfield deploy
-✦ Business Partner (BP) conversion
-✦ S/4HANA Public Cloud (SSCUI)
-✦ Clean core & simplification items
-✦ aATP & backorder processing
-✦ BRF+ output management
-✦ SAP Fiori / UI5 apps
-```
-
-**🔗 Integration & EDI**
-```
-✦ SD–FI / SD–MM / SD–PP / SD–PS / SD–WM
-✦ ALE configuration & partner profiles
-✦ IDoc interfaces (INVOIC02, DESADV)
-✦ EDI X12 & EDIFACT
-✦ Output management (NACE & BRF+)
-✦ LSMW / LTMC data migration
-```
-
-</td>
-</tr>
-</table>
-
----
+## 🔥 Contribution Streak
 
 <div align="center">
 
-## `> TOOLS & METHODOLOGY`
-
-![SAP S4HANA](https://img.shields.io/badge/SAP-S/4HANA-0070f3?style=for-the-badge&logo=sap&logoColor=white)
-![SAP ECC](https://img.shields.io/badge/SAP-ECC_6.0-0070f3?style=for-the-badge&logo=sap&logoColor=white)
-![SAP Fiori](https://img.shields.io/badge/SAP-Fiori-0070f3?style=for-the-badge&logo=sap&logoColor=white)
-![Agile](https://img.shields.io/badge/Methodology-SAP_Activate-1a3a6b?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Methodology-Agile-c8893a?style=for-the-badge)
-![HPQC](https://img.shields.io/badge/Testing-HPQC-1a3a6b?style=for-the-badge)
-![ServiceNow](https://img.shields.io/badge/ITSM-ServiceNow-green?style=for-the-badge)
-![EDI](https://img.shields.io/badge/Integration-EDI_X12_%2F_EDIFACT-c8893a?style=for-the-badge)
-![SolMan](https://img.shields.io/badge/SAP-Solution_Manager-0070f3?style=for-the-badge&logo=sap&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prashanth-sap-sd&theme=tokyonight&hide_border=true&background=0D1117&stroke=c8893a&ring=c8893a&fire=e8b46a&currStreakLabel=c8893a&sideLabels=ffffff&dates=8ab4d8)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
+## 📈 Contribution Activity Graph
+
 <div align="center">
 
-## `> PORTFOLIO CONTENT`
+[![Prashanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prashanth-sap-sd&bg_color=0d1117&color=c8893a&line=1a3a6b&point=c8893a&area=true&area_color=1a3a6b&hide_border=true&custom_title=Prashanth's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-| 📁 | Content | What's Inside |
-|---|---|---|
-| 📂 **[case-studies/](./case-studies/)** | 5 detailed case studies | 3 real client implementations + 2 deep-dive technical studies |
-| 📂 **[playbooks/](./playbooks/)** | Delivery frameworks | OTC governance · Cutover planning · Pricing governance |
-| 📂 **[checklists/](./checklists/)** | Production-ready gates | 64-point go-live checklist · UAT sign-off · Hypercare tracker |
-| 📂 **[reference-guides/](./reference-guides/)** | Deep technical reference | All SD T-codes · Pricing diagnostics · S/4HANA simplification |
-| 📂 **[assets/](./assets/)** | Visual portfolio | Career timeline · OTC flow · Competency map · Stats dashboard |
-
 ---
+
+## 🌟 Featured Projects
 
 <div align="center">
 
-## `> EARLIER CAREER`
+[![Case Studies](https://github-readme-stats.vercel.app/api/pin/?username=prashanth-sap-sd&repo=sap-sd-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8893a&icon_color=c8893a&text_color=ffffff)](https://github.com/prashanth-sap-sd/sap-sd-portfolio)
+[![Portfolio Site](https://github-readme-stats.vercel.app/api/pin/?username=prashanth-sap-sd&repo=prashanth-sap-sd&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8893a&icon_color=c8893a&text_color=ffffff)](https://github.com/prashanth-sap-sd/prashanth-sap-sd)
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 📂 Portfolio Highlights
 
-**🏢 MTouchLabs Private Ltd** `2018 – 2019`
-`SAP SD Functional Consultant`
-- 50+ enhancements & RICEF developments
-- Commodity pricing & catch weight management
-- Variant configuration & pricing formulas
-- Blueprint workshops & gap-fit analysis
-
-`ECC 6.0` `Variant Config` `ABAP Debugging`
-
-</td>
-<td width="50%" valign="top">
-
-**🏢 Jarus Technologies, India** `2014 – 2017`
-`SAP SD/LE Consultant`
-- Foundation across full OTC cycle
-- Automotive EDI: custom IDocs & ASN integration
-- KANBAN inbound processing
-- ALE configuration & partner profiles
-
-`ECC 6.0` `EDI` `Automotive` `IDoc` `LE`
-
-</td>
-</tr>
-</table>
+| 🗂️ | Project | Description | Tags |
+|---|---|---|---|
+| 🏢 | **[Experian — S/4HANA Migration](./case-studies/case-study-1-experian-s4hana.md)** | ECC→S/4HANA · BRF+ · aATP · 42K BP records | `S/4HANA` `Migration` `Fiori` |
+| 🏢 | **[Global Atlantic — Public Cloud OTC](./case-studies/case-study-2-global-atlantic.md)** | S/4HANA Public Cloud · SD-PS · Milestone Billing | `Cloud` `SSCUI` `Finance` |
+| 🏢 | **[Molina Healthcare — OTC Lead](./case-studies/case-study-3-molina-healthcare.md)** | Full lifecycle · Agile · Offshore team · EDI | `OTC Lead` `Healthcare` `Agile` |
+| 📋 | **[Cutover Planning Playbook](./playbooks/cutover-planning-playbook.md)** | 45-task runbook · Dress rehearsal · Go/No-Go | `Cutover` `Playbook` |
+| ✅ | **[64-Point Go-Live Checklist](./checklists/go-live-readiness-checklist.md)** | Production readiness gate across 8 sections | `Checklist` `Quality` |
+| 🔧 | **[Pricing Troubleshooting Guide](./reference-guides/pricing-troubleshooting-guide.md)** | 7-step diagnostic · All symptom patterns | `Pricing` `Reference` |
+| 📖 | **[SD Transaction Reference](./reference-guides/sd-transaction-reference.md)** | Every SAP SD T-code categorised | `T-Codes` `Reference` |
 
 ---
 
+## 🏆 Achievements & Highlights
+
 <div align="center">
 
-## `> GET IN TOUCH`
+| 🎯 Achievement | 📊 Detail |
+|---|---|
+| 🏁 **Full Lifecycle Implementations** | 3 complete S/4HANA & ECC programmes |
+| 🐛 **P1 Defects at Go-Live** | Zero — across all 3 programmes |
+| ⏱️ **Cutover Execution** | 100% on-time within agreed windows |
+| 📉 **Pricing Rationalisation** | 40%+ condition type reduction |
+| 🧪 **UAT Sign-Off** | Consistent on-time business approval |
+| 👥 **Team Leadership** | Onsite + offshore OTC team management |
+| 🌐 **Industries Delivered** | Financial Services · Healthcare · InfoSvcs · Technology |
+| 🔗 **EDI Standards** | X12 · EDIFACT · IDoc · ALE — all delivered |
 
-**Available for S/4HANA migrations · OTC delivery · Pricing architecture · Production support**
+</div>
 
-<br/>
+---
 
-[![Email](https://img.shields.io/badge/📧_Email-t.prashanth0728%40gmail.com-c8893a?style=for-the-badge)](mailto:t.prashanth0728@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-pr--goud-0077B5?style=for-the-badge)](https://www.linkedin.com/in/pr-goud)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-1a3a6b?style=for-the-badge)](https://prashanth-sap-sd.github.io/prashanth-sap-sd/)
+## 📫 Connect With Me
 
-<br/>
+<div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prashanth-sap-sd.prashanth-sap-sd&left_color=1a3a6b&right_color=c8893a&left_text=Profile%20Views)
+<a href="mailto:t.prashanth0728@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-t.prashanth0728%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pr-goud">
+  <img src="https://img.shields.io/badge/LinkedIn-Prashanth_Goud-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://prashanth-sap-sd.github.io/prashanth-sap-sd/">
+  <img src="https://img.shields.io/badge/Portfolio-prashanth--sap--sd.github.io-1a3a6b?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💬 Open to discussing:
+`S/4HANA Migration` · `OTC Programme Delivery` · `Pricing Architecture` · `Production Support` · `Team Augmentation`
 
 <br/>
 
 *All case studies are sanitised to protect client confidentiality.*
 
----
-
-<sub>⚡ SAP SD · S/4HANA · OTC · Advanced Pricing · Billing · Logistics Execution · EDI · 10+ Years</sub>
-
 </div>
 
-<!-- ORIGINAL HEADING PLACEHOLDER -->
-
+<!-- ANIMATED FOOTER -->
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   SAP SD · S/4HANA · Order-to-Cash · Advanced Pricing · Billing · LE   │
-│                     10+ Years · Enterprise Delivery                     │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-[![Portfolio Site](https://img.shields.io/badge/Portfolio-prashanth--sap--sd.github.io-1a3a6b?style=for-the-badge&logo=github)](https://prashanth-sap-sd.github.io/prashanth-sap-sd/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pr--goud-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pr-goud)
-[![Email](https://img.shields.io/badge/Email-t.prashanth0728%40gmail.com-c8893a?style=for-the-badge&logo=gmail)](mailto:t.prashanth0728@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Engagements-22c55e?style=for-the-badge)](mailto:t.prashanth0728@gmail.com)
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm a **Senior SAP SD / S/4HANA Consultant** with **10+ years** of enterprise delivery experience across global programmes spanning manufacturing, FMCG, chemicals, and professional services.
-
-I own **Order-to-Cash workstreams end-to-end** — from fit-to-standard workshops and configuration, through SIT/UAT, cutover planning, and post-go-live hypercare stabilisation. My deepest expertise is in **advanced pricing architecture** (condition technique), **S/4HANA brownfield/greenfield migrations**, and building delivery frameworks that survive the project and hold up in production.
-
-> *"Configuration is easy to build and hard to maintain. I design SAP SD solutions built for longevity — governed, documented, and production-ready."*
-
----
-
-## 🗂️ Portfolio Repository Index
-
-| Repository | Description | Key Content |
-|---|---|---|
-| 📦 **[sap-sd-portfolio](https://github.com/prashanth-sap-sd/sap-sd-portfolio)** | Main portfolio — case studies, playbooks, architecture diagrams | Case studies · Playbooks · Diagrams |
-| 📋 **[otc-delivery-framework](https://github.com/prashanth-sap-sd/sap-sd-portfolio/tree/main/playbooks)** | OTC governance & delivery framework | Config · SIT/UAT · Cutover · Hypercare |
-| 🏗️ **[pricing-architecture](https://github.com/prashanth-sap-sd/sap-sd-portfolio/blob/main/case-studies/advanced-pricing-architecture.md)** | Pricing procedure design & governance | Condition technique · Governance model |
-| 🚀 **[s4hana-migration-workstream](https://github.com/prashanth-sap-sd/sap-sd-portfolio/blob/main/case-studies/s4hana-migration-workstream.md)** | S/4HANA SD workstream leadership | Cutover · Business Partner · Hypercare |
-| ✅ **[checklists-and-templates](https://github.com/prashanth-sap-sd/sap-sd-portfolio/tree/main/checklists)** | Production-ready checklists | Go-live · Cutover · Hypercare · UAT |
-
----
-
-## ⚡ Core Competencies
-
-```
-ORDER-TO-CASH            ADVANCED PRICING           DELIVERY & LE
-─────────────────        ──────────────────         ─────────────────
-Sales Doc Types          Pricing Procedures         Shipping Points
-Item Categories          Condition Technique        Route Determination
-Copy Control             Access Sequences           Delivery Scheduling
-Incompletion Procs       Condition Tables           Picking & Packing
-ATP / aATP               Condition Records          Outbound Delivery
-Credit Management        Exclusion Groups           Post Goods Issue
-Partner Functions        Scales & Formulas          LE-WM Integration
-
-BILLING                  SD INTEGRATION             S/4HANA
-─────────────────        ──────────────────         ─────────────────
-Billing Types            SD–FI Account Det.         Brownfield Conversion
-Billing Plans            SD–MM Goods Movement       Greenfield Deploy
-Invoice Lists            Output / NACE              Business Partner
-Credit/Debit Memos       IDoc / EDI / ALE           Clean Core Design
-Cancellation Proc.       SAP BTP Touchpoints        aATP / Advanced ATP
-Revenue Acct Det.        Third-party Integration    Simplification Items
-Intercompany Billing     CRM / SuccessFactors       SAP Fiori / UI5
-```
-
----
-
-## 📊 Delivery Track Record
-
-<div align="center">
-
-| Metric | Achievement |
-|--------|-------------|
-| 🏁 **Go-lives Led** | 3 full-lifecycle S/4HANA & ECC programmes |
-| ⏱️ **Cutover Windows** | All delivered within agreed technical downtime |
-| 🐛 **P1 Defects at Go-live** | Zero across all 3 programmes |
-| 📉 **Pricing Rationalisation** | 40%+ condition type reduction on legacy landscapes |
-| 🧪 **UAT Cycle Completion** | Consistent on-time business sign-off |
-| 🌐 **Industries** | Manufacturing · FMCG · Chemicals · Professional Services |
-
-</div>
-
----
-
-## 🏗️ Architecture & Process Expertise
-
-### OTC End-to-End Flow
-
-```
-Customer Request
-      │
-      ▼
- ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐
- │  Inquiry  │───▶│ Quotation│───▶│  Sales   │───▶│ Delivery │
- │  (VA11)   │    │  (VA21)  │    │  Order   │    │ (VL01N)  │
- └──────────┘    └──────────┘    │  (VA01)  │    └────┬─────┘
-                                  └──────────┘         │
-                                       │           ┌───▼──────┐
-                                  Credit / ATP      │   PGI    │
-                                  Pricing Det.      │ (VL02N)  │
-                                  Incompletion      └────┬─────┘
-                                                         │
-                                                    ┌────▼─────┐    ┌──────────┐
-                                                    │ Billing  │───▶│  FI/CO   │
-                                                    │  (VF01)  │    │ Posting  │
-                                                    └──────────┘    └──────────┘
-```
-
-### Condition Technique Architecture
-
-```
-Pricing Procedure  ──▶  Condition Type  ──▶  Access Sequence  ──▶  Condition Table
-     (V/08)                (V/06)               (V/07)               (V/03)
-       │                     │                     │                     │
-  Sequence &             PR00 Price            Customer /           KSCHL / KUNNR /
-  Subtotals /            K007 Disc.            Material /           MATNR / VKORG
-  Conditions /           MWST Tax              Sales Org            + Validity
-  Requirements           SKTO Cash             Priority Search      + Amount
-  Formulas               VPRS Cost             Fields               Records (VK11)
-```
-
----
-
-## 📚 Featured Content
-
-### 📄 Real-World Case Studies — 3 Full Lifecycle Implementations
-
-- **[Experian — SAP ECC to S/4HANA Migration](./case-studies/case-study-1-experian-s4hana.md)** — Full lifecycle ECC→S/4HANA migration · OTC · Pricing · BRF+ Output · aATP · Fiori · Aug 2023–Present
-- **[Global Atlantic Financial Group — S/4HANA Public Cloud](./case-studies/case-study-2-global-atlantic.md)** — Full lifecycle Public Cloud OTC · SD-PS Billing · Contract Mgmt · May 2021–Apr 2022
-- **[Molina Healthcare — S/4HANA Full Lifecycle (OTC Lead)](./case-studies/case-study-3-molina-healthcare.md)** — OTC Lead · Agile delivery · Onsite+Offshore team · Pricing · EDI · Hypercare · Jan 2020–Apr 2021
-
-### 📄 Deep-Dive Technical Case Studies
-- **[Advanced Pricing Architecture & Governance](./case-studies/advanced-pricing-architecture.md)** — Legacy rationalisation, governance model, troubleshooting framework
-- **[OTC Stabilisation — Emergency Post-Go-Live](./case-studies/otc-stabilisation-manufacturing.md)** — Post-go-live defect triage, root cause, production stabilisation
-
-### 📋 Playbooks & Frameworks
-- **[OTC Delivery Governance Framework](./playbooks/otc-delivery-governance-framework.md)** — End-to-end delivery model from workshops to hypercare
-- **[Cutover Planning & Execution Playbook](./playbooks/cutover-planning-playbook.md)** — Sequence, dress rehearsal, go/no-go, war room
-- **[Pricing Governance Playbook](./playbooks/pricing-governance-playbook.md)** — Ownership, change control, condition record lifecycle
-
-### ✅ Checklists & Templates
-- **[Go-Live Readiness Checklist](./checklists/go-live-readiness-checklist.md)** — 60-point production readiness gate
-- **[UAT Sign-Off Template](./checklists/uat-signoff-template.md)** — Business approval framework
-- **[Hypercare Daily Tracker](./checklists/hypercare-daily-tracker.md)** — Incident triage and SLA tracking
-- **[SD Config Review Checklist](./checklists/sd-config-review-checklist.md)** — Peer review standards
-
-### 🗺️ Reference Guides
-- **[SAP SD Transaction Quick Reference](./reference-guides/sd-transaction-reference.md)** — Every key T-code, categorised
-- **[Pricing Troubleshooting Guide](./reference-guides/pricing-troubleshooting-guide.md)** — Systematic diagnostic methodology
-- **[S/4HANA Simplification Items — SD Impact](./reference-guides/s4hana-simplification-sd.md)** — What changed, what to validate
-
----
-
-## 🛠️ Tools & Methodology
-
-```
-SAP PLATFORMS          METHODOLOGY            TOOLING
-──────────────         ───────────────        ──────────────
-S/4HANA 2021–2023      SAP Activate           Jira / Confluence
-S/4HANA Cloud PE       ASAP Framework         ServiceNow
-ECC 6.0 EHP7/8         Agile / Scrum          MS Azure DevOps
-SAP Fiori / UI5        Waterfall (hybrid)     HP ALM / Quality Ctr
-SAP BTP (basics)       WRICEF Governance      LSMW / LTMC
-SAP Solution Mgr                              Excel (advanced)
-```
-
----
-
-## 📬 Get in Touch
-
-I'm available for **S/4HANA migration workstreams**, **OTC programme delivery**, **pricing architecture** engagements, and **production support** contracts.
-
-- 📧 **Email:** [t.prashanth0728@gmail.com](mailto:t.prashanth0728@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/pr-goud](https://www.linkedin.com/in/pr-goud)
-- 🌐 **Portfolio:** [prashanth-sap-sd.github.io/prashanth-sap-sd](https://prashanth-sap-sd.github.io/prashanth-sap-sd/)
-
-> All case studies and playbooks in this repository are **sanitised** to protect client confidentiality. Specific company names, data volumes, and system landscapes have been generalised or anonymised.
-
----
-
-<div align="center">
-<sub>SAP SD · S/4HANA · OTC · Advanced Pricing · Billing · Logistics Execution · 10+ Years Delivery</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
