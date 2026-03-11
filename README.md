@@ -126,10 +126,15 @@ Pricing Procedure  ──▶  Condition Type  ──▶  Access Sequence  ──
 
 ## 📚 Featured Content
 
-### 📄 Case Studies
-- **[S/4HANA Migration — SD Workstream Lead](./case-studies/s4hana-migration-workstream.md)** — Brownfield conversion, Business Partner impacts, cutover, hypercare
+### 📄 Real-World Case Studies — 3 Full Lifecycle Implementations
+
+- **[Experian — SAP ECC to S/4HANA Migration](./case-studies/case-study-1-experian-s4hana.md)** — Full lifecycle ECC→S/4HANA migration · OTC · Pricing · BRF+ Output · aATP · Fiori · Aug 2023–Present
+- **[Global Atlantic Financial Group — S/4HANA Public Cloud](./case-studies/case-study-2-global-atlantic.md)** — Full lifecycle Public Cloud OTC · SD-PS Billing · Contract Mgmt · May 2021–Apr 2022
+- **[Molina Healthcare — S/4HANA Full Lifecycle (OTC Lead)](./case-studies/case-study-3-molina-healthcare.md)** — OTC Lead · Agile delivery · Onsite+Offshore team · Pricing · EDI · Hypercare · Jan 2020–Apr 2021
+
+### 📄 Deep-Dive Technical Case Studies
 - **[Advanced Pricing Architecture & Governance](./case-studies/advanced-pricing-architecture.md)** — Legacy rationalisation, governance model, troubleshooting framework
-- **[OTC Stabilisation — Manufacturing Client](./case-studies/otc-stabilisation-manufacturing.md)** — Post-go-live defect triage, root cause, production stabilisation
+- **[OTC Stabilisation — Emergency Post-Go-Live](./case-studies/otc-stabilisation-manufacturing.md)** — Post-go-live defect triage, root cause, production stabilisation
 
 ### 📋 Playbooks & Frameworks
 - **[OTC Delivery Governance Framework](./playbooks/otc-delivery-governance-framework.md)** — End-to-end delivery model from workshops to hypercare
