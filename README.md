@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING TEXT -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=C8893A&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Senior+SAP+SD+%2F+S%2F4HANA+Consultant+%F0%9F%9A%80;10%2B+Years+Enterprise+OTC+Delivery+%F0%9F%8F%86;Advanced+Pricing+Architecture+Expert+%F0%9F%92%B0;3+Full+Lifecycle+Implementations+%E2%9C%85;Zero+P1+Defects+at+Go-Live+%F0%9F%8E%AF;Available+for+Engagements+%F0%9F%9F%A2" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=C8893A&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Senior+SAP+MM+PP+OTC+SD+%2F+S%2F4HANA+Consultant+%F0%9F%9A%80;10%2B+Years+Enterprise+OTC+Delivery+%F0%9F%8F%86;Advanced+Pricing+Architecture+Expert+%F0%9F%92%B0;3+Full+Lifecycle+Implementations+%E2%9C%85;Zero+P1+Defects+at+Go-Live+%F0%9F%8E%AF;Available+for+Engagements+%F0%9F%9F%A2" alt="Typing SVG"/>
 </div>
 
 <br/>
