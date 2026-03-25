@@ -255,9 +255,9 @@ flowchart LR
 
 | 🗂️ | Project | Description | Tags |
 |---|---|---|---|
-| 🏢 | **[Experian — S/4HANA Migration](./case-studies/case-study-1-experian-s4hana.md)** | ECC→S/4HANA · BRF+ · aATP · 42K BP records | `S/4HANA` `Migration` `Fiori` |
-| 🏢 | **[Global Atlantic — Public Cloud OTC](./case-studies/case-study-2-global-atlantic.md)** | S/4HANA Public Cloud · SD-PS · Milestone Billing | `Cloud` `SSCUI` `Finance` |
-| 🏢 | **[Molina Healthcare — OTC Lead](./case-studies/case-study-3-molina-healthcare.md)** | Full lifecycle · Agile · Offshore team · EDI | `OTC Lead` `Healthcare` `Agile` |
+| 🏢 | **[S/4HANA Migration](./case-studies/case-study-1-experian-s4hana.md)** | ECC→S/4HANA · BRF+ · aATP · 42K BP records | `S/4HANA` `Migration` `Fiori` |
+| 🏢 | **[Public Cloud OTC](./case-studies/case-study-2-global-atlantic.md)** | S/4HANA Public Cloud · SD-PS · Milestone Billing | `Cloud` `SSCUI` `Finance` |
+| 🏢 | **[OTC Lead](./case-studies/case-study-3-molina-healthcare.md)** | Full lifecycle · Agile · Offshore team · EDI | `OTC Lead` `Healthcare` `Agile` |
 | 📋 | **[Cutover Planning Playbook](./playbooks/cutover-planning-playbook.md)** | 45-task runbook · Dress rehearsal · Go/No-Go | `Cutover` `Playbook` |
 | ✅ | **[64-Point Go-Live Checklist](./checklists/go-live-readiness-checklist.md)** | Production readiness gate across 8 sections | `Checklist` `Quality` |
 | 🔧 | **[Pricing Troubleshooting Guide](./reference-guides/pricing-troubleshooting-guide.md)** | 7-step diagnostic · All symptom patterns | `Pricing` `Reference` |
