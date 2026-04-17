@@ -1,11 +1,11 @@
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prashanth%20Goud&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20SAP%20SAP S4 HANA AND ECC%20%2F%20S%2F4HANA%20Consultant&descAlignY=58&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prashanth%20Thotakuri&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Certified%20SAP%20S%2F4HANA%20Consultant%20%7C%20ECC%20%26%20Cross-Module%20Expertise&descAlignY=58&descSize=20" width="100%"/>
 </div>
 
 <!-- ANIMATED TYPING TEXT -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=C8893A&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Senior+SAP+MM+PP+OTC+SAP S4 HANA AND ECC+%2F+S%2F4HANA+Consultant+%F0%9F%9A%80;10%2B+Years+Enterprise+OTC+Delivery+%F0%9F%8F%86;Advanced+Pricing+Architecture+Expert+%F0%9F%92%B0;3+Full+Lifecycle+Implementations+%E2%9C%85;Zero+P1+Defects+at+Go-Live+%F0%9F%8E%AF;Available+for+Engagements+%F0%9F%9F%A2" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=C8893A&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Certified+SAP+S%2F4HANA+Consultant+%F0%9F%9A%80;10%2B+Years+in+Enterprise+SAP+Delivery+%F0%9F%8F%86;Cross-Module+Integration+Across+SAP+Landscapes+%E2%9C%85;Implementations+%7C+Enhancements+%7C+Support+%F0%9F%8E%AF;Open+to+New+SAP+Opportunities+%F0%9F%9F%A2" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -13,11 +13,10 @@
 <!-- BADGE ROW -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-1a3a6b?style=for-the-badge&logoColor=white)](https://prashanth-sap-SAP S4 HANA AND ECC.github.io/prashanth-sap-SAP S4 HANA AND ECC/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pr-goud)
-[![Email](https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.prashanth0728@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Open_to_Work_🟢-22c55e?style=for-the-badge)](mailto:t.prashanth0728@gmail.com)
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=prashanth-sap-SAP S4 HANA AND ECC.prashanth-sap-SAP S4 HANA AND ECC&left_color=1a3a6b&right_color=c8893a&left_text=👁️+Profile+Views)](https://github.com/prashanth-sap-SAP S4 HANA AND ECC)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-1a3a6b?style=for-the-badge&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-prashanth-57b691130)
+[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashanththotakuri30@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Open_to_Work_🟢-22c55e?style=for-the-badge)](mailto:prashanththotakuri30@gmail.com)
 
 </div>
 
@@ -27,48 +26,32 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="SAP Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="SAP Workflow" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```yaml
-Name     : Prashanth Goud
-Title    : Senior SAP SAP S4 HANA AND ECC / S/4HANA Consultant
-Location : Pennsylvania, USA 🇺🇸
-Experience: 10+ Years
+Name       : Prashanth Thotakuri
+Title      : Certified SAP S/4HANA Consultant
+Experience : 10+ Years
+Location   : United States
 
-Specialisation:
-  - Order-to-Cash (OTC) End-to-End
-  - Advanced Pricing & Condition Technique
-  - S/4HANA Migration & Stabilisation
-  - Billing, LE & FI Integration
-  - EDI/IDoc & ALE Integration
+Expertise:
+  - SAP S/4HANA & ECC
+  - End-to-End Business Process Delivery
+  - Cross-Module Integration
+  - SAP Configuration & Solution Design
+  - Implementations, Enhancements & Support
+  - Data Migration, Testing & Cutover
 
-Currently  : SAP SAP S4 HANA AND ECC Lead @ Experian
-             ECC → S/4HANA Migration
-Previous   : Molina Healthcare (OTC Lead)
-             Global Atlantic Financial Group
-             MTouchLabs · Jarus Technologies
-
-Delivery   : 3 Full Lifecycle Implementations
-             Zero P1 Defects at Go-Live
-             Onsite + Offshore Team Leadership
-
-Open For   : S/4HANA Migrations
-             OTC Programme Delivery
-             Pricing Architecture
-             Production Support
+Strengths:
+  - Business Requirement Analysis
+  - Functional Design Documentation
+  - RICEFW Coordination
+  - SIT / UAT / Hypercare Support
+  - Stakeholder Collaboration
+  - Offshore / Onsite Coordination
 ```
 
 <br clear="right"/>
-
----
-
-## 🏆 GitHub Profile Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=prashanth-sap-SAP S4 HANA AND ECC&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -77,208 +60,128 @@ Open For   : S/4HANA Migrations
 <div align="center">
 
 ### Core SAP Platform
-[![SAP](https://img.shields.io/badge/SAP-S/4HANA-0070f3?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
-[![SAP](https://img.shields.io/badge/SAP-ECC_6.0-0070f3?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
-[![SAP](https://img.shields.io/badge/SAP-Fiori_%2F_UI5-0070f3?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
-[![SAP](https://img.shields.io/badge/SAP-S/4HANA_Cloud-0070f3?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
+[![SAP](https://img.shields.io/badge/SAP-S%2F4HANA-0070f3?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
+[![SAP](https://img.shields.io/badge/SAP-ECC-0070f3?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
+[![SAP](https://img.shields.io/badge/SAP-Fiori-0070f3?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
 [![SAP](https://img.shields.io/badge/SAP-BTP-0070f3?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
 
-### OTC & SAP S4 HANA AND ECC Modules
-![OTC](https://img.shields.io/badge/Order--to--Cash-OTC-c8893a?style=for-the-badge)
-![Pricing](https://img.shields.io/badge/Advanced-Pricing-c8893a?style=for-the-badge)
-![Billing](https://img.shields.io/badge/Billing_%26-Revenue-c8893a?style=for-the-badge)
-![LE](https://img.shields.io/badge/Logistics-Execution-c8893a?style=for-the-badge)
-![Credit](https://img.shields.io/badge/Credit-Management-c8893a?style=for-the-badge)
-![EDI](https://img.shields.io/badge/EDI_%2F-IDoc_%2F_ALE-1a3a6b?style=for-the-badge)
+### Functional & Delivery Areas
+![Process](https://img.shields.io/badge/Business-Process_Transformation-c8893a?style=for-the-badge)
+![Config](https://img.shields.io/badge/SAP-Configuration-c8893a?style=for-the-badge)
+![Integration](https://img.shields.io/badge/Cross--Module-Integration-c8893a?style=for-the-badge)
+![Migration](https://img.shields.io/badge/Data-Migration-c8893a?style=for-the-badge)
+![Testing](https://img.shields.io/badge/SIT%20%2F%20UAT-Validation-c8893a?style=for-the-badge)
+![Support](https://img.shields.io/badge/Production-Support-1a3a6b?style=for-the-badge)
 
-### Integration
-![FI](https://img.shields.io/badge/SAP S4 HANA AND ECC--FI-Integration-1a3a6b?style=for-the-badge)
-![MM](https://img.shields.io/badge/SAP S4 HANA AND ECC--MM-Integration-1a3a6b?style=for-the-badge)
-![PP](https://img.shields.io/badge/SAP S4 HANA AND ECC--PP-Integration-1a3a6b?style=for-the-badge)
-![PS](https://img.shields.io/badge/SAP S4 HANA AND ECC--PS-Integration-1a3a6b?style=for-the-badge)
-![WM](https://img.shields.io/badge/SAP S4 HANA AND ECC--WM-Integration-1a3a6b?style=for-the-badge)
+### Integration & Technical Awareness
+![IDoc](https://img.shields.io/badge/IDoc-BAPI%20%2F%20RFC-1a3a6b?style=for-the-badge)
+![RICEFW](https://img.shields.io/badge/RICEFW-Objects-1a3a6b?style=for-the-badge)
+![MasterData](https://img.shields.io/badge/Master-Data_Management-1a3a6b?style=for-the-badge)
+![Cutover](https://img.shields.io/badge/Cutover-GoLive-1a3a6b?style=for-the-badge)
 
 ### Methodology & Tools
 ![Activate](https://img.shields.io/badge/SAP-Activate-22c55e?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile-Scrum-22c55e?style=for-the-badge)
 ![ASAP](https://img.shields.io/badge/ASAP-Methodology-22c55e?style=for-the-badge)
-![HPQC](https://img.shields.io/badge/HP-Quality_Center-22c55e?style=for-the-badge)
-![ServiceNow](https://img.shields.io/badge/Service-Now-22c55e?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-Tracking-22c55e?style=for-the-badge)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-Support-22c55e?style=for-the-badge)
 ![SolMan](https://img.shields.io/badge/SAP-Solution_Manager-22c55e?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🏗️ Architecture & Workflow
+## 🏗️ Delivery Framework
 
-### 🔄 End-to-End Order-to-Cash Flow
+### 🔄 SAP Delivery Lifecycle
 
 ```mermaid
 flowchart LR
-    A(["👤 Customer"]) --> B["📋 Inquiry\nVA11"]
-    B --> C["📄 Quotation\nVA21"]
-    C --> D["🛒 Sales Order\nVA01"]
-
-    D --> E{{"💳 Credit\nCheck"}}
-    D --> F{{"📦 ATP\nCheck"}}
-
-    E -->|Approved| G["🚚 Delivery\nVL01N"]
-    F -->|Confirmed| G
-
-    G --> H["📦 Pick & Pack\nLT0A"]
-    H --> I["✅ Post Goods\nIssue VL02N"]
-    I --> J["🧾 Billing\nVF01/VF04"]
-    J --> K["💰 FI Posting\nFB03"]
-    K --> L(["🏦 Payment\nF-28"])
+    A["Requirement Gathering"] --> B["Solution Design"]
+    B --> C["Configuration & Build"]
+    C --> D["Integration & Validation"]
+    D --> E["SIT / UAT Support"]
+    E --> F["Cutover & Deployment"]
+    F --> G["Hypercare & Support"]
 
     style A fill:#1a3a6b,color:#fff
-    style L fill:#22c55e,color:#fff
-    style D fill:#c8893a,color:#fff
-    style J fill:#c8893a,color:#fff
+    style G fill:#22c55e,color:#fff
+    style C fill:#c8893a,color:#fff
+    style F fill:#c8893a,color:#fff
 ```
 
-### 💰 Pricing Determination Architecture
+### 🔗 Cross-Module Collaboration
 
 ```mermaid
 flowchart TD
-    A["Sales Order Created"] --> B["OVKK Lookup\nSOrg + DCh + DocPricProc\n+ CustPricProc"]
-    B --> C["Pricing Procedure\nAssigned"]
-    C --> D["Step 10: PR00 Base Price"]
-    C --> E["Step 40: K007 Customer Disc"]
-    C --> F["Step 80: MWST Tax"]
-
-    D --> D1["Access Sequence\nCustomer+Mat → PriceList+Mat\n→ SOrg+Mat"]
-    D1 --> D2{{"Record\nFound?"}}
-    D2 -->|Yes| D3["✅ Apply Price"]
-    D2 -->|No| D4["⚠️ Inactive"]
-
-    E --> E1["Exclusion Group 01\nBest Discount Wins"]
-    E1 --> E2["✅ Apply Discount"]
-
-    D3 --> G["Net Price Calculated"]
-    E2 --> G
-    F --> G
-    G --> H["✅ Document Pricing Complete"]
+    A["Business Requirements"] --> B["SAP Functional Design"]
+    B --> C["Module Configuration"]
+    C --> D["Integration Validation"]
+    D --> E["Technical Development / Interfaces"]
+    E --> F["Testing & Defect Resolution"]
+    F --> G["Deployment Readiness"]
 
     style A fill:#1a3a6b,color:#fff
-    style H fill:#22c55e,color:#fff
-    style D4 fill:#ef4444,color:#fff
+    style G fill:#22c55e,color:#fff
+    style D fill:#c8893a,color:#fff
 ```
 
-### 🚀 S/4HANA Migration Workstream
+### 🚀 Implementation to Support Model
 
 ```mermaid
 flowchart LR
-    subgraph PREPARE ["📋 PREPARE"]
-        A1["Scope Lock"] --> A2["Simplification\nItem Check"]
-        A2 --> A3["BP Mapping"]
-    end
+    A["Discover"] --> B["Design"]
+    B --> C["Realize"]
+    C --> D["Test"]
+    D --> E["Deploy"]
+    E --> F["Run"]
 
-    subgraph EXPLORE ["🔍 EXPLORE"]
-        B1["Fit-to-Standard\nWorkshops x11"] --> B2["Gap Register"]
-        B2 --> B3["Design Sign-off"]
-    end
-
-    subgraph REALIZE ["⚙️ REALIZE"]
-        C1["Configuration\nBuild"] --> C2["WRICEF\nDevelopment"]
-        C2 --> C3["Unit Testing"]
-    end
-
-    subgraph TEST ["🧪 TEST"]
-        D1["SIT\n84 Scripts"] --> D2["UAT\n156 Cases"]
-        D2 --> D3["Performance\nTest"]
-    end
-
-    subgraph DEPLOY ["🚀 DEPLOY"]
-        E1["Dress\nRehearsal x2"] --> E2["Cutover\nExecution"]
-        E2 --> E3["Go/No-Go\nDecision"]
-    end
-
-    subgraph RUN ["✅ RUN"]
-        F1["Hypercare\n4 Weeks"] --> F2["BAU\nHandover"]
-    end
-
-    PREPARE --> EXPLORE --> REALIZE --> TEST --> DEPLOY --> RUN
-
-    style PREPARE fill:#1a3a6b,color:#fff
-    style EXPLORE fill:#1a3a6b,color:#fff
-    style REALIZE fill:#1a3a6b,color:#fff
-    style TEST fill:#c8893a,color:#fff
-    style DEPLOY fill:#c8893a,color:#fff
-    style RUN fill:#22c55e,color:#fff
+    style A fill:#1a3a6b,color:#fff
+    style B fill:#1a3a6b,color:#fff
+    style C fill:#c8893a,color:#fff
+    style D fill:#c8893a,color:#fff
+    style E fill:#22c55e,color:#fff
+    style F fill:#22c55e,color:#fff
 ```
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📌 Core Capabilities
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prashanth-sap-SAP S4 HANA AND ECC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c8893a&icon_color=c8893a&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth-sap-SAP S4 HANA AND ECC&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8893a&text_color=ffffff"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=prashanth-sap-SAP S4 HANA AND ECC&theme=tokyonight&hide_border=true&background=0D1117&stroke=c8893a&ring=c8893a&fire=e8b46a&currStreakLabel=c8893a&sideLabels=ffffff&dates=8ab4d8)](https://git.io/streak-stats)
-
-</div>
+- SAP ECC and S/4HANA solution delivery
+- End-to-end business process analysis and optimization
+- Cross-functional integration across enterprise SAP landscapes
+- Configuration support aligned with business requirements
+- Functional specifications and coordination with technical teams
+- Data migration, validation, reconciliation, and cutover readiness
+- Testing support including SIT, UAT, defect triage, and hypercare
+- Production support, issue resolution, and continuous improvement
 
 ---
 
-## 📈 Contribution Activity Graph
+## 🌟 Featured Areas
 
-<div align="center">
-
-[![Prashanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prashanth-sap-SAP S4 HANA AND ECC&bg_color=0d1117&color=c8893a&line=1a3a6b&point=c8893a&area=true&area_color=1a3a6b&hide_border=true&custom_title=Prashanth's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Case Studies](https://github-readme-stats.vercel.app/api/pin/?username=prashanth-sap-SAP S4 HANA AND ECC&repo=sap-SAP S4 HANA AND ECC-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8893a&icon_color=c8893a&text_color=ffffff)](https://github.com/prashanth-sap-SAP S4 HANA AND ECC/sap-SAP S4 HANA AND ECC-portfolio)
-[![Portfolio Site](https://github-readme-stats.vercel.app/api/pin/?username=prashanth-sap-SAP S4 HANA AND ECC&repo=prashanth-sap-SAP S4 HANA AND ECC&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8893a&icon_color=c8893a&text_color=ffffff)](https://github.com/prashanth-sap-SAP S4 HANA AND ECC/prashanth-sap-SAP S4 HANA AND ECC)
-
-</div>
-
-### 📂 Portfolio Highlights
-
-| 🗂️ | Project | Description | Tags |
-|---|---|---|---|
-| 🏢 | **[S/4HANA Migration](./case-studies/case-study-1-experian-s4hana.md)** | ECC→S/4HANA · BRF+ · aATP · 42K BP records | `S/4HANA` `Migration` `Fiori` |
-| 🏢 | **[Public Cloud OTC](./case-studies/case-study-2-global-atlantic.md)** | S/4HANA Public Cloud · SAP S4 HANA AND ECC-PS · Milestone Billing | `Cloud` `SSCUI` `Finance` |
-| 🏢 | **[OTC Lead](./case-studies/case-study-3-molina-healthcare.md)** | Full lifecycle · Agile · Offshore team · EDI | `OTC Lead` `Healthcare` `Agile` |
-| 📋 | **[Cutover Planning Playbook](./playbooks/cutover-planning-playbook.md)** | 45-task runbook · Dress rehearsal · Go/No-Go | `Cutover` `Playbook` |
-| ✅ | **[64-Point Go-Live Checklist](./checklists/go-live-readiness-checklist.md)** | Production readiness gate across 8 sections | `Checklist` `Quality` |
-| 🔧 | **[Pricing Troubleshooting Guide](./reference-guides/pricing-troubleshooting-guide.md)** | 7-step diagnostic · All symptom patterns | `Pricing` `Reference` |
-| 📖 | **[SAP S4 HANA AND ECC Transaction Reference](./reference-guides/SAP S4 HANA AND ECC-transaction-reference.md)** | Every SAP SAP S4 HANA AND ECC T-code categorised | `T-Codes` `Reference` |
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-| 🎯 Achievement | 📊 Detail |
+| Area | Focus |
 |---|---|
-| 🏁 **Full Lifecycle Implementations** | 3 complete S/4HANA & ECC programmes |
-| 🐛 **P1 Defects at Go-Live** | Zero — across all 3 programmes |
-| ⏱️ **Cutover Execution** | 100% on-time within agreed windows |
-| 📉 **Pricing Rationalisation** | 40%+ condition type reduction |
-| 🧪 **UAT Sign-Off** | Consistent on-time business approval |
-| 👥 **Team Leadership** | Onsite + offshore OTC team management |
-| 🌐 **Industries Delivered** | Financial Services · Healthcare · InfoSvcs · Technology |
-| 🔗 **EDI Standards** | X12 · EDIFACT · IDoc · ALE — all delivered |
+| **Implementations** | Full lifecycle SAP delivery from design to deployment |
+| **Enhancements** | Business-driven improvements aligned to client needs |
+| **Integration** | Coordination across modules, interfaces, and enterprise systems |
+| **Support** | Post-go-live stabilization, issue analysis, and optimization |
+| **Migration** | ECC to S/4HANA transition support, validation, and readiness |
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+| Achievement | Detail |
+|---|---|
+| **Experience** | 10+ years in SAP consulting and delivery |
+| **Project Exposure** | Implementations, migrations, enhancements, and support |
+| **Collaboration** | Business, functional, technical, and offshore coordination |
+| **Delivery Focus** | Quality, stability, scalability, and process alignment |
+| **System Knowledge** | SAP ECC, S/4HANA, integrations, testing, and cutover |
 
 </div>
 
@@ -288,26 +191,22 @@ flowchart LR
 
 <div align="center">
 
-<a href="mailto:t.prashanth0728@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-t.prashanth0728%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:prashanththotakuri30@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-prashanththotakuri30%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/pr-goud">
-  <img src="https://img.shields.io/badge/LinkedIn-Prashanth_Goud-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/prashanth-prashanth-57b691130">
+  <img src="https://img.shields.io/badge/LinkedIn-Prashanth_Thotakuri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://prashanth-sap-SAP S4 HANA AND ECC.github.io/prashanth-sap-SAP S4 HANA AND ECC/">
-  <img src="https://img.shields.io/badge/Portfolio-prashanth--sap--SAP S4 HANA AND ECC.github.io-1a3a6b?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-Profile-1a3a6b?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 ### 💬 Open to discussing:
-`S/4HANA Migration` · `OTC Programme Delivery` · `Pricing Architecture` · `Production Support` · `Team Augmentation`
-
-<br/>
-
-*All case studies are sanitised to protect client confidentiality.*
+`SAP S/4HANA` · `ECC` · `Implementations` · `Enhancements` · `Support` · `Integration`
 
 </div>
 
