@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prashanth%20Goud&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20SAP%20SD,MM,PP,FI,DATA%20%2F%20S%2F4HANA%20Consultant&descAlignY=58&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prashanth%20Goud&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20SAP%20%20%2F%20S%2F4HANA%20Consultant&descAlignY=58&descSize=22" width="100%"/>
 </div>
 
 <!-- ANIMATED TYPING TEXT -->
