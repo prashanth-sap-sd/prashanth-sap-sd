@@ -1,11 +1,11 @@
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prashanth%20Goud&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20SAP%20SD%20%2F%20S%2F4HANA%20Consultant&descAlignY=58&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prashanth%20Goud&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20SAP%20SAP S4 HANA AND ECC%20%2F%20S%2F4HANA%20Consultant&descAlignY=58&descSize=22" width="100%"/>
 </div>
 
 <!-- ANIMATED TYPING TEXT -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=C8893A&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Senior+SAP+MM+PP+OTC+SD+%2F+S%2F4HANA+Consultant+%F0%9F%9A%80;10%2B+Years+Enterprise+OTC+Delivery+%F0%9F%8F%86;Advanced+Pricing+Architecture+Expert+%F0%9F%92%B0;3+Full+Lifecycle+Implementations+%E2%9C%85;Zero+P1+Defects+at+Go-Live+%F0%9F%8E%AF;Available+for+Engagements+%F0%9F%9F%A2" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=C8893A&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Senior+SAP+MM+PP+OTC+SAP S4 HANA AND ECC+%2F+S%2F4HANA+Consultant+%F0%9F%9A%80;10%2B+Years+Enterprise+OTC+Delivery+%F0%9F%8F%86;Advanced+Pricing+Architecture+Expert+%F0%9F%92%B0;3+Full+Lifecycle+Implementations+%E2%9C%85;Zero+P1+Defects+at+Go-Live+%F0%9F%8E%AF;Available+for+Engagements+%F0%9F%9F%A2" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -13,11 +13,11 @@
 <!-- BADGE ROW -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-1a3a6b?style=for-the-badge&logoColor=white)](https://prashanth-sap-sd.github.io/prashanth-sap-sd/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-1a3a6b?style=for-the-badge&logoColor=white)](https://prashanth-sap-SAP S4 HANA AND ECC.github.io/prashanth-sap-SAP S4 HANA AND ECC/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pr-goud)
 [![Email](https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.prashanth0728@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Open_to_Work_🟢-22c55e?style=for-the-badge)](mailto:t.prashanth0728@gmail.com)
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=prashanth-sap-sd.prashanth-sap-sd&left_color=1a3a6b&right_color=c8893a&left_text=👁️+Profile+Views)](https://github.com/prashanth-sap-sd)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=prashanth-sap-SAP S4 HANA AND ECC.prashanth-sap-SAP S4 HANA AND ECC&left_color=1a3a6b&right_color=c8893a&left_text=👁️+Profile+Views)](https://github.com/prashanth-sap-SAP S4 HANA AND ECC)
 
 </div>
 
@@ -31,7 +31,7 @@
 
 ```yaml
 Name     : Prashanth Goud
-Title    : Senior SAP SD / S/4HANA Consultant
+Title    : Senior SAP SAP S4 HANA AND ECC / S/4HANA Consultant
 Location : Pennsylvania, USA 🇺🇸
 Experience: 10+ Years
 
@@ -42,7 +42,7 @@ Specialisation:
   - Billing, LE & FI Integration
   - EDI/IDoc & ALE Integration
 
-Currently  : SAP SD Lead @ Experian
+Currently  : SAP SAP S4 HANA AND ECC Lead @ Experian
              ECC → S/4HANA Migration
 Previous   : Molina Healthcare (OTC Lead)
              Global Atlantic Financial Group
@@ -66,7 +66,7 @@ Open For   : S/4HANA Migrations
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prashanth-sap-sd&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prashanth-sap-SAP S4 HANA AND ECC&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -83,7 +83,7 @@ Open For   : S/4HANA Migrations
 [![SAP](https://img.shields.io/badge/SAP-S/4HANA_Cloud-0070f3?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
 [![SAP](https://img.shields.io/badge/SAP-BTP-0070f3?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
 
-### OTC & SD Modules
+### OTC & SAP S4 HANA AND ECC Modules
 ![OTC](https://img.shields.io/badge/Order--to--Cash-OTC-c8893a?style=for-the-badge)
 ![Pricing](https://img.shields.io/badge/Advanced-Pricing-c8893a?style=for-the-badge)
 ![Billing](https://img.shields.io/badge/Billing_%26-Revenue-c8893a?style=for-the-badge)
@@ -92,11 +92,11 @@ Open For   : S/4HANA Migrations
 ![EDI](https://img.shields.io/badge/EDI_%2F-IDoc_%2F_ALE-1a3a6b?style=for-the-badge)
 
 ### Integration
-![FI](https://img.shields.io/badge/SD--FI-Integration-1a3a6b?style=for-the-badge)
-![MM](https://img.shields.io/badge/SD--MM-Integration-1a3a6b?style=for-the-badge)
-![PP](https://img.shields.io/badge/SD--PP-Integration-1a3a6b?style=for-the-badge)
-![PS](https://img.shields.io/badge/SD--PS-Integration-1a3a6b?style=for-the-badge)
-![WM](https://img.shields.io/badge/SD--WM-Integration-1a3a6b?style=for-the-badge)
+![FI](https://img.shields.io/badge/SAP S4 HANA AND ECC--FI-Integration-1a3a6b?style=for-the-badge)
+![MM](https://img.shields.io/badge/SAP S4 HANA AND ECC--MM-Integration-1a3a6b?style=for-the-badge)
+![PP](https://img.shields.io/badge/SAP S4 HANA AND ECC--PP-Integration-1a3a6b?style=for-the-badge)
+![PS](https://img.shields.io/badge/SAP S4 HANA AND ECC--PS-Integration-1a3a6b?style=for-the-badge)
+![WM](https://img.shields.io/badge/SAP S4 HANA AND ECC--WM-Integration-1a3a6b?style=for-the-badge)
 
 ### Methodology & Tools
 ![Activate](https://img.shields.io/badge/SAP-Activate-22c55e?style=for-the-badge)
@@ -215,8 +215,8 @@ flowchart LR
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prashanth-sap-sd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c8893a&icon_color=c8893a&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth-sap-sd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8893a&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prashanth-sap-SAP S4 HANA AND ECC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c8893a&icon_color=c8893a&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth-sap-SAP S4 HANA AND ECC&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8893a&text_color=ffffff"/>
 
 </div>
 
@@ -226,7 +226,7 @@ flowchart LR
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prashanth-sap-sd&theme=tokyonight&hide_border=true&background=0D1117&stroke=c8893a&ring=c8893a&fire=e8b46a&currStreakLabel=c8893a&sideLabels=ffffff&dates=8ab4d8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prashanth-sap-SAP S4 HANA AND ECC&theme=tokyonight&hide_border=true&background=0D1117&stroke=c8893a&ring=c8893a&fire=e8b46a&currStreakLabel=c8893a&sideLabels=ffffff&dates=8ab4d8)](https://git.io/streak-stats)
 
 </div>
 
@@ -236,7 +236,7 @@ flowchart LR
 
 <div align="center">
 
-[![Prashanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prashanth-sap-sd&bg_color=0d1117&color=c8893a&line=1a3a6b&point=c8893a&area=true&area_color=1a3a6b&hide_border=true&custom_title=Prashanth's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Prashanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prashanth-sap-SAP S4 HANA AND ECC&bg_color=0d1117&color=c8893a&line=1a3a6b&point=c8893a&area=true&area_color=1a3a6b&hide_border=true&custom_title=Prashanth's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -246,8 +246,8 @@ flowchart LR
 
 <div align="center">
 
-[![Case Studies](https://github-readme-stats.vercel.app/api/pin/?username=prashanth-sap-sd&repo=sap-sd-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8893a&icon_color=c8893a&text_color=ffffff)](https://github.com/prashanth-sap-sd/sap-sd-portfolio)
-[![Portfolio Site](https://github-readme-stats.vercel.app/api/pin/?username=prashanth-sap-sd&repo=prashanth-sap-sd&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8893a&icon_color=c8893a&text_color=ffffff)](https://github.com/prashanth-sap-sd/prashanth-sap-sd)
+[![Case Studies](https://github-readme-stats.vercel.app/api/pin/?username=prashanth-sap-SAP S4 HANA AND ECC&repo=sap-SAP S4 HANA AND ECC-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8893a&icon_color=c8893a&text_color=ffffff)](https://github.com/prashanth-sap-SAP S4 HANA AND ECC/sap-SAP S4 HANA AND ECC-portfolio)
+[![Portfolio Site](https://github-readme-stats.vercel.app/api/pin/?username=prashanth-sap-SAP S4 HANA AND ECC&repo=prashanth-sap-SAP S4 HANA AND ECC&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8893a&icon_color=c8893a&text_color=ffffff)](https://github.com/prashanth-sap-SAP S4 HANA AND ECC/prashanth-sap-SAP S4 HANA AND ECC)
 
 </div>
 
@@ -256,12 +256,12 @@ flowchart LR
 | 🗂️ | Project | Description | Tags |
 |---|---|---|---|
 | 🏢 | **[S/4HANA Migration](./case-studies/case-study-1-experian-s4hana.md)** | ECC→S/4HANA · BRF+ · aATP · 42K BP records | `S/4HANA` `Migration` `Fiori` |
-| 🏢 | **[Public Cloud OTC](./case-studies/case-study-2-global-atlantic.md)** | S/4HANA Public Cloud · SD-PS · Milestone Billing | `Cloud` `SSCUI` `Finance` |
+| 🏢 | **[Public Cloud OTC](./case-studies/case-study-2-global-atlantic.md)** | S/4HANA Public Cloud · SAP S4 HANA AND ECC-PS · Milestone Billing | `Cloud` `SSCUI` `Finance` |
 | 🏢 | **[OTC Lead](./case-studies/case-study-3-molina-healthcare.md)** | Full lifecycle · Agile · Offshore team · EDI | `OTC Lead` `Healthcare` `Agile` |
 | 📋 | **[Cutover Planning Playbook](./playbooks/cutover-planning-playbook.md)** | 45-task runbook · Dress rehearsal · Go/No-Go | `Cutover` `Playbook` |
 | ✅ | **[64-Point Go-Live Checklist](./checklists/go-live-readiness-checklist.md)** | Production readiness gate across 8 sections | `Checklist` `Quality` |
 | 🔧 | **[Pricing Troubleshooting Guide](./reference-guides/pricing-troubleshooting-guide.md)** | 7-step diagnostic · All symptom patterns | `Pricing` `Reference` |
-| 📖 | **[SD Transaction Reference](./reference-guides/sd-transaction-reference.md)** | Every SAP SD T-code categorised | `T-Codes` `Reference` |
+| 📖 | **[SAP S4 HANA AND ECC Transaction Reference](./reference-guides/SAP S4 HANA AND ECC-transaction-reference.md)** | Every SAP SAP S4 HANA AND ECC T-code categorised | `T-Codes` `Reference` |
 
 ---
 
@@ -296,8 +296,8 @@ flowchart LR
   <img src="https://img.shields.io/badge/LinkedIn-Prashanth_Goud-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://prashanth-sap-sd.github.io/prashanth-sap-sd/">
-  <img src="https://img.shields.io/badge/Portfolio-prashanth--sap--sd.github.io-1a3a6b?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://prashanth-sap-SAP S4 HANA AND ECC.github.io/prashanth-sap-SAP S4 HANA AND ECC/">
+  <img src="https://img.shields.io/badge/Portfolio-prashanth--sap--SAP S4 HANA AND ECC.github.io-1a3a6b?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
