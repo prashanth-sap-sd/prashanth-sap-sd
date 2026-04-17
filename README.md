@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pr-goud)
 [![Email](https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.prashanth0728@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Open_to_Work_🟢-22c55e?style=for-the-badge)](mailto:t.prashanth0728@gmail.com)
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=prashanth-sap-sd.prashanth-sap-sd&left_color=1a3a6b&right_color=c8893a&left_text=👁️+Profile+Views)](https://github.com/prashanth-sap-sd)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=prashanth-sap-.prashanth-sap-&left_color=1a3a6b&right_color=c8893a&left_text=👁️+Profile+Views)](https://github.com/prashanth-sap-)
 
 </div>
 
@@ -31,7 +31,7 @@
 
 ```yaml
 Name     : Prashanth Goud
-Title    : Senior SAP SD / S/4HANA Consultant
+Title    : Senior SAP / S/4HANA Consultant
 Location : Pennsylvania, USA 🇺🇸
 Experience: 10+ Years
 
@@ -42,7 +42,7 @@ Specialisation:
   - Billing, LE & FI Integration
   - EDI/IDoc & ALE Integration
 
-Currently  : SAP SD Lead @ Experian
+Currently  : SAP S4 HANA Lead @ Experian
              ECC → S/4HANA Migration
 Previous   : Molina Healthcare (OTC Lead)
              Global Atlantic Financial Group
@@ -53,7 +53,7 @@ Delivery   : 3 Full Lifecycle Implementations
              Onsite + Offshore Team Leadership
 
 Open For   : S/4HANA Migrations
-             OTC Programme Delivery
+             OTC MM FI PP SD Programme Delivery
              Pricing Architecture
              Production Support
 ```
