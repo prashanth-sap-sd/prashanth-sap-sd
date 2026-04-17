@@ -1,11 +1,11 @@
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prashanth%20Goud&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20SAP%20SD%20%2F%20S%2F4HANA%20Consultant&descAlignY=58&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prashanth%20Goud&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20SAP%20SD,MM,PP,FI,DATA%20%2F%20S%2F4HANA%20Consultant&descAlignY=58&descSize=22" width="100%"/>
 </div>
 
 <!-- ANIMATED TYPING TEXT -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=C8893A&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Senior+SAP+SD+%2F+S%2F4HANA+Consultant+%F0%9F%9A%80;10%2B+Years+Enterprise+OTC+Delivery+%F0%9F%8F%86;Advanced+Pricing+Architecture+Expert+%F0%9F%92%B0;3+Full+Lifecycle+Implementations+%E2%9C%85;Zero+P1+Defects+at+Go-Live+%F0%9F%8E%AF;Available+for+Engagements+%F0%9F%9F%A2" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=C8893A&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Senior+SAP+S4 HANA+%2F+S%2F4HANA+Consultant+%F0%9F%9A%80;10%2B+Years+Enterprise+OTC+Delivery+%F0%9F%8F%86;Advanced+Pricing+Architecture+Expert+%F0%9F%92%B0;3+Full+Lifecycle+Implementations+%E2%9C%85;Zero+P1+Defects+at+Go-Live+%F0%9F%8E%AF;Available+for+Engagements+%F0%9F%9F%A2" alt="Typing SVG"/>
 </div>
 
 <br/>
